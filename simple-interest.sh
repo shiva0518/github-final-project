@@ -1,6 +1,6 @@
 Author: Upkar Lidder (IBM)
 Additional Authors:
-<your GitHub username>
+<shiva0518>
 
 Input:
 p, principal amount
